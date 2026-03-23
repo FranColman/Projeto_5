@@ -44,7 +44,7 @@ model = load_model()
 # =========================
 @st.cache_data
 def load_data():
-    return pd.read_csv("df_combinado.csv")
+    return pd.read_csv("MODELO_PREDITIVO_2/df_combinado.csv")
 
 df = load_data()
 
