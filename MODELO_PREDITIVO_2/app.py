@@ -35,7 +35,8 @@ def load_model():
         st.error("❌ Erro ao carregar modelo")
         st.exception(e)
         st.stop()
-
+st.write("Diretório atual:", os.getcwd())
+st.write("Arquivos disponíveis:", os.listdir())
 model = load_model()
 
 # =========================
