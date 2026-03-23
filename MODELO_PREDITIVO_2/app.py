@@ -13,7 +13,7 @@ st.title("📊 Predição de Risco de Defasagem")
 # =========================
 @st.cache_resource
 def load_model():
-    model_path = "MODELO_PREDITIVO_2/modelo_pipeline.pkl"
+    model_path = modelo_pipeline.pkl"
 
     if not os.path.exists(model_path):
         st.error("❌ Modelo não encontrado. Execute o modelo.py primeiro.")
