@@ -5,7 +5,7 @@ Este projeto tem como objetivo prever o **risco de aumento de defasagem escolar*
 A solução foi desenvolvida utilizando técnicas de **Machine Learning** e disponibilizada através de uma interface interativa com **Streamlit**.
 
 
-Links: https://projeto5-vncnrhztajiqb5pkpsmfyk.streamlit.app/
+Link Streamlit: https://projeto5-vncnrhztajiqb5pkpsmfyk.streamlit.app/
 ---
 
 ## 🚀 Objetivo
