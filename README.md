@@ -157,10 +157,9 @@ http://localhost:8501
 
 ## 👨‍💻 Autores
 
-Projeto desenvolvido por 
-**Franco Colmán**
-**Hugo Duran**
-
+Projeto desenvolvido por  
+* **Franco Colmán**
+* **Hugo Duran**
 ---
 
 ## ⭐ Considerações finais
